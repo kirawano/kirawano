@@ -12,7 +12,7 @@ I'm kirawano (he/him), and I've been getting more into programming over the past
 - **Learning**: Rust, Commonlisp
 
 ### Contact
-I'm most available on discord (localkirawano), for more stuff, see [[the contact page][https://kirawano.github.io/contact.html]] on my website
+I'm most available on discord (localkirawano), for more stuff, see [the contact page](https://kirawano.github.io/contact.html) on my website
 
 <!--
 **kirawano/kirawano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
