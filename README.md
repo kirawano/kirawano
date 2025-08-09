@@ -12,6 +12,7 @@ I'm kirawano (he/him), and I've been getting more into programming over the past
 - **Learning**: Rust, Commonlisp
 
 ### Contact
+XMPP: kirakey@worlio.com
 I'm most available on discord (localkirawano), for more stuff, see [the contact page](https://kirawano.github.io/contact.html) on my website
 
 <!--
