@@ -7,8 +7,7 @@ I'm kirawano (he/him), and I've been getting more into programming over the past
 - Chesskers Engine: A chess AI written for a variant made by my chess club
 
 ### Languages
-- **Well**: Python, C
-- **Decently**: C++, Java, JS
+- **Known**: Python, C
 - **Learning**: Rust, Commonlisp
 
 ### Contact
